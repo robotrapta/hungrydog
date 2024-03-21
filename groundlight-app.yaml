@@ -1,4 +1,6 @@
 name: Hungry Dog!
 description: Keeps track of when the dog has been fed, and when she needs more feeding.
+runtime:
+  pip: requirements.txt
 entrypoint: ./go.py
 
